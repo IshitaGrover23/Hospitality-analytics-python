@@ -14,7 +14,7 @@ occupancy, revenue trends, room categories, and city-wise performance using Pyth
 - Evaluated city-wise revenue contribution
 
 ## Files
-- Hospitality_Analysis.ipynb – Full analysis notebook
+- Hospitality_analysis.ipynb – Full analysis notebook
 
 ## How to Run
 Open the notebook using Jupyter Notebook or JupyterLab.
